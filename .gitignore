@@ -2,3 +2,4 @@ dist/
 dump.rdb
 node_modules/
 coverage.html
+.env
